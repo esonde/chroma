@@ -1,0 +1,9 @@
+streamlit
+st-clickable-images
+streamlit-autorefresh
+streamlit-aggrid
+pandas
+numpy
+altair
+pyarrow
+
